@@ -14,6 +14,9 @@ composer require kalwa/kalwa-parser
 
 ```php
 
+use Kalwa\KalwaParser;
+use Kalwa\KalwaParser\Exceptions\SitemapParserException;
+
  try {
             $parser = new KalwaParser('MyCustomUserAgent');
             $parser->parse('https://themeselection.com/sitemap_index.xml');
