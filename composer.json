@@ -1,0 +1,19 @@
+{
+    "name": "kalwa/kalwa-parser",
+    "description": "This package is used to parse urls from sitemap.xml files.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kalwa": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hitesh Chauhan",
+            "email": "hiteshchauhan2023@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
