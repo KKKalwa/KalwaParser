@@ -8,10 +8,8 @@ use Kalwa\KalwaParser\Exceptions;
 use Kalwa\KalwaParser\UrlParser;
 
 /**
- * SitemapParser class
- *
- * @license https://opensource.org/licenses/MIT MIT license
- * @link https://github.com/VIPnytt/SitemapParser
+   
+ * @link https://github.com/KKKalwa/KalwaParser
  *
  * Specifications:
  * @link http://www.sitemaps.org/protocol.html
@@ -23,7 +21,7 @@ class KalwaParser
     /**
      * Default User-Agent
      */
-    const DEFAULT_USER_AGENT = 'SitemapParser-VIPnytt/1.1 (+https://github.com/VIPnytt/SitemapParser/blob/master/README.md)';
+    const DEFAULT_USER_AGENT = 'KalwaParser-Kalwa/1.1 (+https://github.com/KKKalwa/KalwaParser/blob/main/README.md)';
 
     /**
      * Default encoding
