@@ -3,6 +3,11 @@
     "description": "This package is used to parse urls from sitemap.xml files.",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "KalwaParser",
+        "XML parse",
+        "sitemap parse"
+    ],
     "autoload": {
         "psr-4": {
             "Kalwa\\": "src/"
