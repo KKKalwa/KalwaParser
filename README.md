@@ -10,8 +10,7 @@ composer require kalwa/kalwa-parser
 ```
     
 ## How to use?
-
-Insert gif or link to demo
+ 
 
 ```php
 
